@@ -13,7 +13,7 @@
   "license": "MIT",
   "dependencies": {
     "cors": "^2.8.5",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "stripe": "^8.63.0",
     "uuid": "^8.1.0"
   },
